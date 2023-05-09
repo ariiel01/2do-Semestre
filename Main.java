@@ -1,4 +1,4 @@
-/*Nombre: Leonardo Daniel Martínez Rosas
+/*Nombre: Ruiz Marquez Ariel Megara
 Grupo: 201
 Licenciatura: Ciencia de Datos para Negocios
 Practica de listas enlazadas 2.
